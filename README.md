@@ -16,8 +16,8 @@
 ![OpenBSD](https://img.shields.io/badge/-OpenBSD-1877f2?style=plastic&logo=Openbsd&logoColor=ffffff)
 ![FreeBSD](https://img.shields.io/badge/-FreeBSD-1877f2?style=plastic&logo=FreeBSD&logoColor=ffffff)
 
-![sidcode's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdullahkim&theme=wihte&show_icons=true) 
+![sidcode's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdullahkim&theme=merko&show_icons=true) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahkim&layout=compact)
-![sidcode's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=abdullahkim&theme=whitek&bg_color=ffffff&hide_border=true&line=58A6FF&color=58A6FF) 
+![sidcode's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=abdullahkim&theme=github&bg_color=&hide_border=true&line=58A6FF&color=58A6FF) 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fabdullahkim&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
